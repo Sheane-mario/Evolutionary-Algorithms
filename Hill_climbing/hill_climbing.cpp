@@ -7,8 +7,8 @@
 const int DIMENTIONS = 6;
 const int MAX_RESTARTS = 100;
 const int STAGNATION_LIMIT = 50;
-const double LOWER_BOUND = -6.42;
-const double UPPER_BOUND = 6.42;
+const double LOWER_BOUND = -5.12;
+const double UPPER_BOUND = 5.12;
 const double STEP_SIZE = 0.01;
 
 
